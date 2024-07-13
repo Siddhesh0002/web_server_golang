@@ -12,8 +12,7 @@ This is my first project where I have created a simple web server using Go. The 
 - Installation
 - Usage
 - Routes
-- Contributing
-- License
+- 
 ## Installation
 
 - Clone the repository
